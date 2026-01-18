@@ -1,0 +1,8 @@
+{
+  "name": "Yash Messenger",
+  "description": "A feature-rich messenger with real-time AI messaging, voice calls powered by Gemini Live API, and image generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
